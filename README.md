@@ -1,2 +1,2 @@
 # Bank-churn-analysis
-Customer churn analysis using Python, SQL, and Tableau
+Customer churn analysis using Python, SQL, and Power BI
