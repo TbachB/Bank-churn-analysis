@@ -1,0 +1,5 @@
+venv/
+bank_churn.csv
+*.db
+*.sqbpro
+*.db-journal
